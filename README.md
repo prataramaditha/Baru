@@ -15,4 +15,9 @@ Program ini adalah kalkulator sederhana yang menghitung hasil modulo dari dua bi
 4. Program akan mencetak hasilnya ke layar.
 
 ## Contoh Penggunaan
+Masukkan bilangan dividend: 5
+Masukkan bilangan divisor: 2
+Hasil 5 % 2 = 1
 
+
+Terima kasih!
